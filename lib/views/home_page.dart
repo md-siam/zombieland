@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:zombieland/views/components/packages.dart';
+import 'package:zombieland/views/components/package/packages.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import '../theme/colors.dart';
+import 'package:zombieland/theme/colors.dart';
+
 
 class TopBar extends StatelessWidget {
   @override
