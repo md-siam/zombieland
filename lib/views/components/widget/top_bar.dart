@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:zombieland/theme/colors.dart';
 
 
-class TopBar extends StatelessWidget {
+class TopAppBar extends StatelessWidget {
+  const TopAppBar({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return CustomPaint(

@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage> {
             child: Stack(
               alignment: Alignment.center,
               children: [
-                TopBar(),
+                const TopAppBar(),
                 Positioned(
                   bottom: 45,
                   child: Text(
