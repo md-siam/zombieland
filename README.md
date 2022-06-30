@@ -7,6 +7,7 @@ Note: I thought - "Instead of a simple counter app, the @FlutterDev team can pro
 ## Packages used:
 
 <img align="left" src="assets/demo.gif" height="450"></img>
+
 // For playing audio files<br>
 [audioplayers: ^0.20.1](https://pub.dev/packages/audioplayers)<br>
 // For accessing google fonts<br>
